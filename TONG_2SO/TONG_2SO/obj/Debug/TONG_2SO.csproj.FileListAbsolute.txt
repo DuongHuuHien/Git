@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\TONG_2SO\bin\Debug\TONG_2SO.exe.config
+D:\C#\TONG_2SO\TONG_2SO\bin\Debug\TONG_2SO.exe
+D:\C#\TONG_2SO\TONG_2SO\bin\Debug\TONG_2SO.pdb
+D:\C#\TONG_2SO\TONG_2SO\obj\Debug\TONG_2SO.exe
+D:\C#\TONG_2SO\TONG_2SO\obj\Debug\TONG_2SO.pdb

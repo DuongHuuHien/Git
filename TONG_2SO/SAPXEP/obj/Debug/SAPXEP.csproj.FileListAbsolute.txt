@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\SAPXEP\bin\Debug\SAPXEP.exe.config
+D:\C#\TONG_2SO\SAPXEP\bin\Debug\SAPXEP.exe
+D:\C#\TONG_2SO\SAPXEP\bin\Debug\SAPXEP.pdb
+D:\C#\TONG_2SO\SAPXEP\obj\Debug\SAPXEP.exe
+D:\C#\TONG_2SO\SAPXEP\obj\Debug\SAPXEP.pdb

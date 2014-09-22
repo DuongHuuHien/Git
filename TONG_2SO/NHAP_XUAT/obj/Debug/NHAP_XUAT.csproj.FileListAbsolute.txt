@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\NHAP_XUAT\bin\Debug\NHAP_XUAT.exe.config
+D:\C#\TONG_2SO\NHAP_XUAT\bin\Debug\NHAP_XUAT.exe
+D:\C#\TONG_2SO\NHAP_XUAT\bin\Debug\NHAP_XUAT.pdb
+D:\C#\TONG_2SO\NHAP_XUAT\obj\Debug\NHAP_XUAT.exe
+D:\C#\TONG_2SO\NHAP_XUAT\obj\Debug\NHAP_XUAT.pdb

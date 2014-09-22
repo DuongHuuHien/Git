@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\VD1\bin\Debug\VD1.exe.config
+D:\C#\TONG_2SO\VD1\bin\Debug\VD1.exe
+D:\C#\TONG_2SO\VD1\bin\Debug\VD1.pdb
+D:\C#\TONG_2SO\VD1\obj\Debug\VD1.exe
+D:\C#\TONG_2SO\VD1\obj\Debug\VD1.pdb

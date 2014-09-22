@@ -1,0 +1,6 @@
+D:\C#\TONG_2SO\VD\bin\Debug\VD.exe.config
+D:\C#\TONG_2SO\VD\obj\Debug\VD.csprojResolveAssemblyReference.cache
+D:\C#\TONG_2SO\VD\bin\Debug\VD.exe
+D:\C#\TONG_2SO\VD\bin\Debug\VD.pdb
+D:\C#\TONG_2SO\VD\obj\Debug\VD.exe
+D:\C#\TONG_2SO\VD\obj\Debug\VD.pdb

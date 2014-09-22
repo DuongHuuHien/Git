@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\MANG_2GT\bin\Debug\MANG_2GT.exe.config
+D:\C#\TONG_2SO\MANG_2GT\bin\Debug\MANG_2GT.exe
+D:\C#\TONG_2SO\MANG_2GT\bin\Debug\MANG_2GT.pdb
+D:\C#\TONG_2SO\MANG_2GT\obj\Debug\MANG_2GT.exe
+D:\C#\TONG_2SO\MANG_2GT\obj\Debug\MANG_2GT.pdb

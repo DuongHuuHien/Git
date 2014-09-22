@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\WHILE_DO\bin\Debug\WHILE_DO.exe.config
+D:\C#\TONG_2SO\WHILE_DO\bin\Debug\WHILE_DO.exe
+D:\C#\TONG_2SO\WHILE_DO\bin\Debug\WHILE_DO.pdb
+D:\C#\TONG_2SO\WHILE_DO\obj\Debug\WHILE_DO.exe
+D:\C#\TONG_2SO\WHILE_DO\obj\Debug\WHILE_DO.pdb

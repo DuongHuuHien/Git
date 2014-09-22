@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\STUDENT\bin\Debug\STUDENT.exe.config
+D:\C#\TONG_2SO\STUDENT\bin\Debug\STUDENT.exe
+D:\C#\TONG_2SO\STUDENT\bin\Debug\STUDENT.pdb
+D:\C#\TONG_2SO\STUDENT\obj\Debug\STUDENT.exe
+D:\C#\TONG_2SO\STUDENT\obj\Debug\STUDENT.pdb

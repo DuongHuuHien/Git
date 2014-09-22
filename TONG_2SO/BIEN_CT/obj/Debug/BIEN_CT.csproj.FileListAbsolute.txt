@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\BIEN_CT\bin\Debug\BIEN_CT.exe.config
+D:\C#\TONG_2SO\BIEN_CT\bin\Debug\BIEN_CT.exe
+D:\C#\TONG_2SO\BIEN_CT\bin\Debug\BIEN_CT.pdb
+D:\C#\TONG_2SO\BIEN_CT\obj\Debug\BIEN_CT.exe
+D:\C#\TONG_2SO\BIEN_CT\obj\Debug\BIEN_CT.pdb

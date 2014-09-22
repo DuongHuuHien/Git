@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\DOI_INCH\bin\Debug\DOI_INCH.exe.config
+D:\C#\TONG_2SO\DOI_INCH\bin\Debug\DOI_INCH.exe
+D:\C#\TONG_2SO\DOI_INCH\bin\Debug\DOI_INCH.pdb
+D:\C#\TONG_2SO\DOI_INCH\obj\Debug\DOI_INCH.exe
+D:\C#\TONG_2SO\DOI_INCH\obj\Debug\DOI_INCH.pdb

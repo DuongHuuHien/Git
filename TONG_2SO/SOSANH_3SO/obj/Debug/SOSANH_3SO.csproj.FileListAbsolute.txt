@@ -1,0 +1,6 @@
+D:\C#\TONG_2SO\SOSANH_3SO\bin\Debug\SOSANH_3SO.exe.config
+D:\C#\TONG_2SO\SOSANH_3SO\bin\Debug\SOSANH_3SO.exe
+D:\C#\TONG_2SO\SOSANH_3SO\bin\Debug\SOSANH_3SO.pdb
+D:\C#\TONG_2SO\SOSANH_3SO\obj\Debug\SOSANH_3SO.csprojResolveAssemblyReference.cache
+D:\C#\TONG_2SO\SOSANH_3SO\obj\Debug\SOSANH_3SO.exe
+D:\C#\TONG_2SO\SOSANH_3SO\obj\Debug\SOSANH_3SO.pdb

@@ -1,0 +1,5 @@
+D:\C#\TONG_2SO\CMND\bin\Debug\CMND.exe.config
+D:\C#\TONG_2SO\CMND\bin\Debug\CMND.exe
+D:\C#\TONG_2SO\CMND\bin\Debug\CMND.pdb
+D:\C#\TONG_2SO\CMND\obj\Debug\CMND.exe
+D:\C#\TONG_2SO\CMND\obj\Debug\CMND.pdb
