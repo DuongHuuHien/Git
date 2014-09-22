@@ -1,6 +1,0 @@
-D:\C#\TONG_2SO\TINH\bin\Debug\TINH.exe.config
-D:\C#\TONG_2SO\TINH\bin\Debug\TINH.exe
-D:\C#\TONG_2SO\TINH\bin\Debug\TINH.pdb
-D:\C#\TONG_2SO\TINH\obj\Debug\TINH.exe
-D:\C#\TONG_2SO\TINH\obj\Debug\TINH.pdb
-D:\C#\TONG_2SO\TINH\obj\Debug\TINH.csprojResolveAssemblyReference.cache

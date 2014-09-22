@@ -1,0 +1,102 @@
+
+html, body,div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul, dd, dt, li, tbody, td, tfoot, th, thead, tr, button, br,   img,  q,  span { margin: 0; padding: 0 }
+img { border: 0; outline: none }
+
+/* set image max width to 100% */
+img { max-width: 100%; height: auto; width: auto\9; 
+/* ie8 */ }
+
+/* set html5 elements to block */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block }
+
+
+body { background: #3D496B; font:  13px/150% Arial, Helvetica, sans-serif; color: #666 }
+a { color: #026acb; text-decoration: none; outline: none; target: _blank }
+a:hover { color: red }
+p { margin: 0 0 15px; padding: 0 }
+
+
+#content{background: snow; padding: 20px 35px; 
+/* rounded corner */
+	-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; 
+/* box shadow */
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4); -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4); box-shadow: 0 1px 3px rgba(0, 0, 0, .4)}
+
+/* list */
+#main-nav ul, li { margin: 14px 0 14px 24px; padding: 0; line-height: 140% }
+#main-nav li { margin: 0 0 7px 0; padding: 0 }
+
+
+#nav { position: relative }
+#main-nav{width: 100%; background: #C8D7DE; margin: 0; padding: 0; position: absolute; right: 0; bottom: 0; z-index: 100; 
+/* rounded corner */
+	-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; 
+/* box shadow */
+	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .3), 0 1px 1px rgba(0, 0, 0, .4); -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .3), 0 1px 1px rgba(0, 0, 0, .4); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .3), 0 1px 1px rgba(0, 0, 0, .4)}
+#main-nav li { margin: 0; padding: 0; list-style: none; float: right; position: relative }
+#main-nav li:first-child { margin-left: 10px }
+#main-nav a { line-height: 100%; font-weight: bold; color: #3D496B; display: block; padding: 14px 15px; text-decoration: none; text-shadow: 0 -1px 0 rgba(0, 0, 0, .5) }
+#main-nav a:hover { color: #000; background: #fff }
+
+/*End menu*/
+input[type="text"], input[type="password"] { background: #fff; border: 1px solid #ccc; padding: 6px 10px;  outline: none; color: #4700A8; border-radius: 5px }
+input[type="submit"] { background: #0067ff; border: 0; color: #fff; outline: none; width: 80px; padding: 10px; outline: none; border-radius: 5px }
+:focus { border: 1px solid #56b4ef; box-shadow: 0 0 3px 1px #c8def0 }
+
+#header { position: relative; height: 160px; background: transparent url("../images/logo.png") top right no-repeat }
+#pagewrap{
+	position: relative;
+}
+/* site logo */
+#site-logo { position: absolute; top: 50px; right: 120px }
+#site-logo a { font: bold 40px/100% Arial, Helvetica, sans-serif; color: #fff; text-decoration: none }
+
+/* site description */
+#site-description { font: italic 100%/130% "Times New Roman", Times, serif; color: #fff; position: absolute; top: 95px; right: 0 }
+
+
+#footer { clear: both; color: #ccc; font-size: 85%; border-top: 3px solid white }
+#footer a { color: #fff }
+#information a { padding: 5px }
+#information { float: right }
+.highlight { background: red }
+#bttop { border: 1px solid #4adcff; background: #24bde2; text-align: center; padding: 5px; position: fixed; bottom: 35px; right: 80px; cursor: pointer; display: none; color: #fff; font-size: 11px; font-weight: 900 }
+#bttop:hover { border: 1px solid #ffa789; background: red; }
+
+/* searchform */
+#google { position: absolute; right: 10px; top: 10px; }
+#cse-search-box #q {  width: 200px; float: right; background: white url("../images/gg.jpg") right center no-repeat }
+#search-box input[type="text"] { background: lavender url("../images/search.png") right center no-repeat; width: 220px }
+
+/* SOCIAL ICONS - GENERAL */
+ #mxh { display: none; position: fixed; right: 0px; top: 0px; background: transparent;  width: 50px; height: 1000px; }
+.social { list-style: none; margin-top: 150px;}
+.social li { display: block;  background-repeat: no-repeat;}
+.social li a { display: block; width: 24px; height: 24px; position: relative; text-decoration: none }
+.social li a strong { position: absolute;  right: 30px; width: 75px; top: 24px; color: #fff; z-index: 9999; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75); background-color: rgba(0, 0, 0, 0.7); -moz-border-radius: 3px; -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); -webkit-border-radius: 3px; -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); border-radius: 3px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5) }
+li.index { background-image: url("../images/home.png") }
+li.back { background-image: url("../images/back.png") }
+li.tonghop { background-image: url("../images/teacher.png") }
+li.update { background-image: url("../images/update.png") }
+li.xem { background-image: url("../images/xem.png") }
+li.dmk { background-image: url("../images/pass.png") }
+li.dangxuat { background-image: url("../images/logout.png") }
+li.DSSV { background-image: url("../images/student.png") }
+li.hocphan { background-image: url("../images/hocphan.png") }
+li.sinhvien { background-image: url("../images/sinhvien.png") }
+
+/* SOCIAL ICONS - CSS3 */
+#css3:hover li { opacity: 0.2 }
+#css3 li { -webkit-transition-property: opacity; -webkit-transition-duration: 500ms; -moz-transition-property: opacity; -moz-transition-duration: 500ms }
+#css3 li a strong { opacity: 0; -webkit-transition-property: opacity, top; -webkit-transition-duration: 300ms; -moz-transition-property: opacity, top; -moz-transition-duration: 300ms }
+#css3 li:hover { opacity: 1 }
+#css3 li:hover a strong { opacity: 1; top: -10px }
+table { display: table; border: 0; border-spacing: 0; width: 100%; text-align: left; margin: 5px auto }
+th { padding: 5px; text-transform: uppercase; color: white; background: #5197FF; display: table-cell; font-weight: bold; vertical-align: middle; padding-top: 20px; padding-bottom: 20px }
+td {padding: 5px; border-top: 2px solid #ddd; padding-top: 15px; padding-bottom: 15px; color: #9A350E }
+#table { width: 100%; margin: 0 auto }
+tr:nth-child(even) { background-color: #f9f9f9 }
+.insert { width: 500px; margin: 0 auto }
+.insert ul { list-style-image: url("../images/data.png"); margin-left: 20px }
+.insert ul li { border-bottom: 2px dashed gray; padding: 5px }
+.insert a { padding: 5px; color: gray; display: block }

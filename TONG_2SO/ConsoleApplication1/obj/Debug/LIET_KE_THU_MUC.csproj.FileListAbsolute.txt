@@ -1,2 +1,0 @@
-D:\C#\TONG_2SO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\C#\TONG_2SO\ConsoleApplication1\obj\Debug\LIET_KE_THU_MUC.csprojResolveAssemblyReference.cache

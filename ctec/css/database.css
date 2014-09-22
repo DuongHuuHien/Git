@@ -1,0 +1,8 @@
+#pagewrap { width: 980px; margin: 100px auto 0 }
+#content { margin: 5px auto; width: 900px; position: relative;}
+#table { background: #fff url("../images/table.png") center right 50% no-repeat; margin: 0 auto; width: 100% }
+#table li { list-style-image: url("../images/li-table.png"); border-top: 1px solid #e1e1e1 }
+#table li a { font-size: 20px }
+.input{background: #fff; border: 1px solid #ccc; padding: 6px 10px; outline: none; 
+-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; color: #4700A8}
+

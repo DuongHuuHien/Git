@@ -1,0 +1,14 @@
+#pagewrap { width: 980px; margin: 100px auto 0 }
+#content { margin: 30px 0 30px; width: 600px; float: left }
+.post-image { margin: 0 0 15px }
+.readmore { padding: 10px; letter-spacing: 1px; text-align: left }
+#sidebar { width: 280px; float: right; margin: 30px 0 30px }
+.widget{background: #fff url("../images/ting.gif") top right no-repeat; margin: 0 0 30px; padding: 10px 20px; 
+-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; 
+-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4); -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4); box-shadow: 0 1px 3px rgba(0, 0, 0, .4)}
+h4.widgettitle { border: 0; background: transparent; color: #693E6A; font-size: 17px }
+.widget ul { margin: 0; padding: 0 }
+.widget li { margin: 0; padding: 6px 0; list-style: none; clear: both; border-top: solid 2px #eee; list-style-image: url("../images/li.png") }
+.widget li:hover { background: #e1e1e1; border-radius: 10px }
+#submit { background: #0082ff; color: white; display: none }
+#user, #pass{ width: 220px }

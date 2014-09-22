@@ -1,5 +1,0 @@
-D:\C#\TONG_2SO\CAU_TRUC\bin\Debug\CAU_TRUC.exe.config
-D:\C#\TONG_2SO\CAU_TRUC\bin\Debug\CAU_TRUC.exe
-D:\C#\TONG_2SO\CAU_TRUC\bin\Debug\CAU_TRUC.pdb
-D:\C#\TONG_2SO\CAU_TRUC\obj\Debug\CAU_TRUC.exe
-D:\C#\TONG_2SO\CAU_TRUC\obj\Debug\CAU_TRUC.pdb

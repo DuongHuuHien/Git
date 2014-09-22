@@ -1,5 +1,0 @@
-D:\C#\TONG_2SO\DOI_CHUOI\bin\Debug\DOI_CHUOI.exe.config
-D:\C#\TONG_2SO\DOI_CHUOI\bin\Debug\DOI_CHUOI.exe
-D:\C#\TONG_2SO\DOI_CHUOI\bin\Debug\DOI_CHUOI.pdb
-D:\C#\TONG_2SO\DOI_CHUOI\obj\Debug\DOI_CHUOI.exe
-D:\C#\TONG_2SO\DOI_CHUOI\obj\Debug\DOI_CHUOI.pdb

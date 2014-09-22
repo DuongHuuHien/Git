@@ -1,6 +1,0 @@
-D:\C#\TONG_2SO\TEN_DTB\bin\Debug\TEN_DTB.exe.config
-D:\C#\TONG_2SO\TEN_DTB\bin\Debug\TEN_DTB.exe
-D:\C#\TONG_2SO\TEN_DTB\bin\Debug\TEN_DTB.pdb
-D:\C#\TONG_2SO\TEN_DTB\obj\Debug\TEN_DTB.csprojResolveAssemblyReference.cache
-D:\C#\TONG_2SO\TEN_DTB\obj\Debug\TEN_DTB.exe
-D:\C#\TONG_2SO\TEN_DTB\obj\Debug\TEN_DTB.pdb
